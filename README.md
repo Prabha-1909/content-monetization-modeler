@@ -161,11 +161,11 @@ streamlit run app/streamlit_app.py
 
 ## Data Visualization
 * Revenue distribution:
-  <img width="1189" height="836" alt="image" src="https://github.com/user-attachments/assets/c52b0bea-258c-4184-ad20-40ef27fc71eb" />
+  <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/c52b0bea-258c-4184-ad20-40ef27fc71eb" />
 * Views vs Revenue:
-  <img width="1189" height="840" alt="image" src="https://github.com/user-attachments/assets/b293258c-29c6-49af-ba0d-8dfa6cc739a8" />
+  <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/b293258c-29c6-49af-ba0d-8dfa6cc739a8" />
 * Correlation heatmap:
-  <img width="1489" height="994" alt="image" src="https://github.com/user-attachments/assets/496285ca-f70a-434c-af4a-294eb267229d" />
+  <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/496285ca-f70a-434c-af4a-294eb267229d" />
   
 
 
