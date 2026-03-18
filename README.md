@@ -37,7 +37,9 @@ This project builds a machine learning model to estimate **expected YouTube ad r
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+
+```
 
 Content-Monetization-Modeler
 
@@ -62,6 +64,7 @@ src
 requirements.txt
 .gitignore
 README.md
+```
 
 ---
 
