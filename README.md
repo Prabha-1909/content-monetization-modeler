@@ -98,7 +98,7 @@ models/revenue_model.pkl
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Content-Monetization-Modeler.git
+git clone [https://github.com/your-username/Content-Monetization-Modeler.git](https://github.com/Prabha-1909/content-monetization-modeler.git)
 
 cd Content-Monetization-Modeler
 
